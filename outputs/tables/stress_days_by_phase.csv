@@ -1,0 +1,17 @@
+block,phase,days,rain_mm,heat_days,heavy_rain_days,humid_days
+A01,Establishment,8,71.9,6,1,0
+A01,Vegetative,32,197.4,17,2,0
+A01,Flowering & fruit set,36,194.4,18,1,0
+A01,Harvest,25,282.8,0,3,4
+A02,Establishment,8,58.2,7,1,0
+A02,Vegetative,32,195.2,17,2,0
+A02,Flowering & fruit set,36,194.2,17,1,0
+A02,Harvest,24,281.9,0,3,4
+A03,Establishment,8,65.4,7,1,0
+A03,Vegetative,32,186.0,17,2,0
+A03,Flowering & fruit set,36,198.8,16,1,0
+A03,Harvest,23,272.5,0,3,4
+A04,Establishment,8,62.6,6,1,0
+A04,Vegetative,32,185.6,17,2,0
+A04,Flowering & fruit set,36,211.8,16,1,0
+A04,Harvest,22,256.6,0,3,4

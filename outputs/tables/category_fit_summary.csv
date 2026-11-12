@@ -1,0 +1,9 @@
+category,DAT,plants,mean,std,block_effect_R2,lowest_block_mean,highest_block_mean,reference,share_meeting_reference_%
+vigor,30,80,3.71,0.87,0.007,3.6,3.8,4-5 green (QC guideline),66.2
+height,30,80,32.83,9.07,0.041,31.01,35.78,none in files,
+branching,30,80,4.38,1.94,0.012,4.05,4.65,none in files,
+flowers,45,80,1.79,2.26,0.024,1.25,2.2,none in files,
+young_fruits,60,80,35.0,16.68,0.099,26.6,40.85,none in files,
+fruit_length,75,80,6.19,0.65,0.497,5.69,6.7,6.5-7.8 cm (planting guide),47.5
+fruit_diameter,75,80,0.86,0.11,0.105,0.84,0.92,1.1-1.2 cm (planting guide),0.0
+canopy,30,80,15.72,4.32,0.03,14.58,16.68,none in files,

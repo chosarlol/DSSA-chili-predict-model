@@ -1,0 +1,5 @@
+block,loss_%,survival_7DAT_%,potential_kg_base,potential_kg_upper,after_loss_kg_base,after_loss_kg_upper,lost_kg_base,after_loss_kg_base_if_7DAT_survival_held
+A01,9.5,90.0,18750.0,20000.0,16969.0,18100.0,1781.0,15272.0
+A02,9.0,95.0,18750.0,20000.0,17062.0,18200.0,1688.0,16209.0
+A03,8.5,90.0,18750.0,20000.0,17156.0,18300.0,1594.0,15440.0
+A04,8.5,95.0,18750.0,20000.0,17156.0,18300.0,1594.0,16298.0

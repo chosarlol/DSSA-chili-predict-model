@@ -1,0 +1,41 @@
+block,stage_no,stage,DAT,threshold_gdd,predicted_date,survey_date,error_days,basis
+A01,1,Transplant,0,0.0,2026-07-04,2026-07-04,0.0,GDD threshold calibrated on survey days (partly circular)
+A01,2,Establishment,7,130.7,2026-07-11,2026-07-11,0.0,GDD threshold calibrated on survey days (partly circular)
+A01,3,Vegetative,30,546.3,2026-08-03,2026-08-03,0.0,GDD threshold calibrated on survey days (partly circular)
+A01,4,Flowering,45,813.2,2026-08-18,2026-08-18,0.0,GDD threshold calibrated on survey days (partly circular)
+A01,5,Fruit set,60,1085.9,2026-09-02,2026-09-02,0.0,GDD threshold calibrated on survey days (partly circular)
+A01,6,First harvest,75,1352.4,2026-09-17,2026-09-17,0.0,GDD threshold calibrated on survey days (partly circular)
+A01,7,Maturity,75,1352.4,2026-09-17,,,sheet header '75 DAT+'; no observations
+A01,8,Harvest (start),75,1352.4,2026-09-17,,,sheet header '75-150 DAT'; one harvest recorded on 12 Oct
+A01,9,Plant health (start),75,1352.4,2026-09-17,,,sheet header '75-150 DAT'; no observations
+A01,10,End of cycle,150,2680.6,2026-12-01,,,projection: 150 DAT x average GDD per day; beyond the weather data
+A02,1,Transplant,0,0.0,2026-07-05,2026-07-05,0.0,GDD threshold calibrated on survey days (partly circular)
+A02,2,Establishment,7,130.6,2026-07-12,2026-07-12,0.0,GDD threshold calibrated on survey days (partly circular)
+A02,3,Vegetative,30,546.3,2026-08-04,2026-08-04,0.0,GDD threshold calibrated on survey days (partly circular)
+A02,4,Flowering,45,813.6,2026-08-19,2026-08-19,0.0,GDD threshold calibrated on survey days (partly circular)
+A02,5,Fruit set,60,1085.7,2026-09-03,2026-09-03,0.0,GDD threshold calibrated on survey days (partly circular)
+A02,6,First harvest,75,1352.6,2026-09-18,2026-09-18,0.0,GDD threshold calibrated on survey days (partly circular)
+A02,7,Maturity,75,1352.6,2026-09-18,,,sheet header '75 DAT+'; no observations
+A02,8,Harvest (start),75,1352.6,2026-09-18,,,sheet header '75-150 DAT'; one harvest recorded on 12 Oct
+A02,9,Plant health (start),75,1352.6,2026-09-18,,,sheet header '75-150 DAT'; no observations
+A02,10,End of cycle,150,2680.6,2026-12-02,,,projection: 150 DAT x average GDD per day; beyond the weather data
+A03,1,Transplant,0,0.0,2026-07-06,2026-07-06,0.0,GDD threshold calibrated on survey days (partly circular)
+A03,2,Establishment,7,130.8,2026-07-13,2026-07-13,0.0,GDD threshold calibrated on survey days (partly circular)
+A03,3,Vegetative,30,546.7,2026-08-05,2026-08-05,0.0,GDD threshold calibrated on survey days (partly circular)
+A03,4,Flowering,45,813.9,2026-08-20,2026-08-20,0.0,GDD threshold calibrated on survey days (partly circular)
+A03,5,Fruit set,60,1085.9,2026-09-04,2026-09-04,0.0,GDD threshold calibrated on survey days (partly circular)
+A03,6,First harvest,75,1352.8,2026-09-19,2026-09-19,0.0,GDD threshold calibrated on survey days (partly circular)
+A03,7,Maturity,75,1352.8,2026-09-19,,,sheet header '75 DAT+'; no observations
+A03,8,Harvest (start),75,1352.8,2026-09-19,,,sheet header '75-150 DAT'; one harvest recorded on 12 Oct
+A03,9,Plant health (start),75,1352.8,2026-09-19,,,sheet header '75-150 DAT'; no observations
+A03,10,End of cycle,150,2680.6,2026-12-03,,,projection: 150 DAT x average GDD per day; beyond the weather data
+A04,1,Transplant,0,0.0,2026-07-07,2026-07-07,0.0,GDD threshold calibrated on survey days (partly circular)
+A04,2,Establishment,7,131.1,2026-07-14,2026-07-14,0.0,GDD threshold calibrated on survey days (partly circular)
+A04,3,Vegetative,30,546.8,2026-08-06,2026-08-06,0.0,GDD threshold calibrated on survey days (partly circular)
+A04,4,Flowering,45,814.1,2026-08-21,2026-08-21,0.0,GDD threshold calibrated on survey days (partly circular)
+A04,5,Fruit set,60,1085.7,2026-09-05,2026-09-05,0.0,GDD threshold calibrated on survey days (partly circular)
+A04,6,First harvest,75,1353.1,2026-09-20,2026-09-20,0.0,GDD threshold calibrated on survey days (partly circular)
+A04,7,Maturity,75,1353.1,2026-09-20,,,sheet header '75 DAT+'; no observations
+A04,8,Harvest (start),75,1353.1,2026-09-20,,,sheet header '75-150 DAT'; one harvest recorded on 12 Oct
+A04,9,Plant health (start),75,1353.1,2026-09-20,,,sheet header '75-150 DAT'; no observations
+A04,10,End of cycle,150,2680.6,2026-12-04,,,projection: 150 DAT x average GDD per day; beyond the weather data

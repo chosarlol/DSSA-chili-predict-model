@@ -1,0 +1,7 @@
+stage_no,stage,DAT,threshold_gdd10,threshold_gdd15
+1,Transplant,0,0.0,0.0
+2,Establishment,7,130.8,95.8
+3,Vegetative,30,546.5,396.5
+4,Flowering,45,813.7,588.7
+5,Fruit set,60,1085.8,785.8
+6,First harvest,75,1352.8,977.8
