@@ -1,0 +1,10 @@
+# Ignore reference PDFs
+*.pdf
+
+# Ignore raw CSV datasets
+*.csv
+
+# Ignore Jupyter checkpoints and system files
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
